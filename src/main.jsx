@@ -59,7 +59,7 @@ import { Lat_long_get } from './Lat_long_get';
 //         {/* footer */}
 //     </BrowserRouter>
 // </>)
-createRoot(document.getElementById('root')).render(<Lat_long_get/>)
+createRoot(document.getElementById('root')).render(<Products/>)
 // createRoot(document.getElementById('root')).render(
 //     <Provider store={StudStored}>
 //         <Redux_StudentEx/>
